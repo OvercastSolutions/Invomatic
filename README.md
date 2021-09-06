@@ -1,2 +1,2 @@
 # Invomatic
-Inventory tracking and management
+Inventory tracking and management program
